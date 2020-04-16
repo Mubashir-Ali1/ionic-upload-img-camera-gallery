@@ -1,0 +1,7 @@
+{
+  "name": "UserProfileApp",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
